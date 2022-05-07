@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-language-translator/static/css/main.6e82d138.css",
+    "main.js": "/react-language-translator/static/js/main.67ff5e4b.js",
+    "index.html": "/react-language-translator/index.html",
+    "main.6e82d138.css.map": "/react-language-translator/static/css/main.6e82d138.css.map",
+    "main.67ff5e4b.js.map": "/react-language-translator/static/js/main.67ff5e4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e82d138.css",
+    "static/js/main.67ff5e4b.js"
+  ]
+}
